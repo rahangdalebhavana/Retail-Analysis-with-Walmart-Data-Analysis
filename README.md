@@ -5,5 +5,7 @@
 ### Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. 
 ### Historical sales data for 45 Walmart stores located in different regions are available.
 
+![Walmart Store](https://media.allure.com/photos/585bf909f32978df093421c0/master/pass/walmart-hair-products.jpg)
+
 
 
